@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ProductMicroserviceProject.Models;
+using ProductMicroserviceProject.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
